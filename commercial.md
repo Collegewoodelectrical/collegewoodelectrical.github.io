@@ -2,7 +2,7 @@
 layout: default
 title: Commercial Installations
 ---
-# Commercial Installations
+## Commercial Installations
 
 Some of our commercial work includes:
 
